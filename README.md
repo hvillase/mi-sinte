@@ -1,2 +1,2 @@
 # mi-sinte
-Este código contiene un synte hecho con supercollider
+Este código contiene un Synth hecho con SuperCollider.
